@@ -34,7 +34,7 @@ const events = [
     location: "Tripoli, Lebanon",
     price: 15,
     image:
-      "https://images.unsplash.com/photo-1577083552431-6e5fd01aa342?w=1000",
+       "https://images.unsplash.com/photo-1780767571176-6e173e76593d?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D",
     description:
       "Explore inspiring artwork, meet creative artists, and enjoy unique installations.",
   },
